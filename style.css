@@ -1,6 +1,5 @@
 body,
 html {
-  /* html and body should cover 100% of whatever we see on the screen */
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
@@ -10,12 +9,6 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-/* dont repeat the image
-keep it centered
-and keep it fixed
-
-and stratch it full viewport
-*/
 
 h1{
   font-size: 3rem;
@@ -36,7 +29,6 @@ hr{
 
 .btn-primary{
   background-color: #f05f44;
-  /* color:#f05f44; */
   border-color: #f05f44;
 }
 
@@ -53,5 +45,3 @@ hr{
 .buffer{
   height:10rem;
 }
-
-/* Use rem */
