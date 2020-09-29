@@ -1,1 +1,1 @@
-https://mak947.github.io/maaz-khan-startup-template/
+https://maazahmadkhan.github.io/maaz-khan-startup-template/
